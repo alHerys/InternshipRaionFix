@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163527882015",
+    "project_id": "raion-project",
+    "storage_bucket": "raion-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163527882015:android:3af607fbc87ae399c1ec2a",
+        "android_client_info": {
+          "package_name": "com.kelompok1.internshipraion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR9ys1IZAxTWrz3OdQ6OVkZTrI6Io92FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
